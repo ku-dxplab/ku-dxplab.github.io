@@ -3,7 +3,7 @@ title: Human-Computer Interaction
 tagline: COSE432
 description: 2024 HCI course website for undergraduates at Korea University
 author: Dr. Gerard Jounghyun Kim
-baseurl: '/hci'
+baseurl: ''
 url: 'https://ku-dxplab.github.io'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
