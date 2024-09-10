@@ -2,7 +2,7 @@
 title: Welcome to HCI 2024
 week: 0
 date: 2024-08-31
-posted: G.J.Kim
+posted: GJK
 ---
 
 Looking forward to an exciting and rewarding class this year!
