@@ -25,22 +25,22 @@ schedule:
       - name: Lecture
         start: 12:00 PM
         end: 1:15 PM
-        location: 202 Woo Jung Informatics Building
+        location: Woojung Building 202
       - name: Office Hours
         start: 4:00 PM
-        end: 5:00 PM
-        location: 271 Soda
+        end: 5:30 PM
+        location: Woojung Building 101
   - name: Tuesday
   - name: Wednesday
     events:
       - name: Lecture
         start: 12:00 PM
         end: 1:15 PM
-        location: 202 Woo Jung Informatics Building
+        location: Woojung Building 202
       - name: Office Hours
         start: 4:00 PM
-        end: 5:00 PM
-        location: 271 Soda
+        end: 5:30 PM
+        location: Woojung Building 101
   - name: Thursday
   - name: Friday
 ---
