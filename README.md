@@ -22,7 +22,8 @@ Designing effective user interfaces requires a deep understanding of how humans 
 ### Current Assignments
 {: .no_toc .text-delta }
 
-* **Due Sep 25, PM 11:59**{: .label .label-red }**[HW1. Exploring HCI Principles](/assignment/exploring-hci-principles)**
+* **Due Sep 25, PM 11:59**{: .label .label-red }**[HW1. Exploring HCI Principles](/assignments/#homeworks)**
+
 
 ### Description
 {: .no_toc .text-delta }
