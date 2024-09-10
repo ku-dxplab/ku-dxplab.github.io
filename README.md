@@ -1,18 +1,54 @@
-# 2024 HCI Course Website
+---
+layout: home
+title: COSE432
+nav_exclude: true
+permalink: /:path/
+---
 
-This website for the 2024 Human-Computer Interaction (HCI) course at Korea University is developed using the [Just the Class](https://github.com/kevinlin1/just-the-class) template, which extends the [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme. The site serves as a comprehensive resource for students, providing announcements, course schedules, staff information, and more.
+# Human-Computer Interaction🧑‍💻
+🐯 Korea Univ, Fall 2024
 
-## Local Development
+Designing effective user interfaces requires a deep understanding of how humans interact with technology, beyond aesthetics. This course provides a comprehensive introduction to the fundamental principles, guidelines, tools, and practices of Human-Computer Interaction (HCI). You will explore a wide range of topics, including human cognitive and perceptual abilities, 2D and 3D interface design, multimodal interactions, interfaces for web and mobile devices, and methods for usability and evaluation. The course places a strong emphasis on practical applications, to engage in UI design and evaluation projects throughout the semester. Cheer up!🥳
 
-To build and run the site locally, you'll need to have [Jekyll](https://jekyllrb.com/) installed. Follow the official Jekyll documentation for installation instructions [here](https://jekyllrb.com/docs/installation/).
 
-Once Jekyll is installed, you can serve the site locally with the following command:
+> 📌 **NOTE**: This page is for your visual convenience only. Announcements, assignments, and lecture materials are synchronized with **KULMS**. All assignment submissions and attendance MUST BE done on **[KULMS](https://kulms.korea.ac.kr/ultra/courses/_417634_1/cl/outline)**.
 
-```shell
-$ bundle exec jekyll serve
-```
 
-## Adding Your Information
+## Course Materials
+* Lecture Notes: **[Lectures](/lectures)**
+* Textbook: **[PDF available](/lectures#textbook)**
 
-- Register your personal information by creating a file in the [`_staffers/`](./_staffers) directory with the format `{name}.md`.
-- If your post requires images or media files, manage them within the [`assets/`](./assets) directory.
+## Assignments
+### Current Assignments
+{: .no_toc .text-delta }
+
+* **Due Sep 25, PM 11:59**{: .label .label-red }**[HW1. Exploring HCI Principles](/assignment/exploring-hci-principles)**
+
+### Description
+{: .no_toc .text-delta }
+* Homeworks: **[Homeworks List](/assignments/#homeworks)**
+* Projects: **[Project Milestones](/assignments/#project)**
+
+
+## Attendances
+All attendance must be completed through **[KULMS](https://kulms.korea.ac.kr/ultra/courses/_417634_1/cl/outline)**. Up to 3 absences allowed; more than 3 results in up to 5% deduction from total score.
+
+
+## Discussions and Communication
+For discussions or questions, please use KULMS Discussions. Alternatively, contact the instructor or TA via email directly through the **[Staff Page](/staff/)**.
+
+* Subject Header: `[HCI 2024]`
+
+## Grading
+
+| **Category**              | **Item**                                | **Weight** |
+|---------------------------|-----------------------------------------|------------|
+| **Quizzes**               | 3 Monthly Quizzes                      | 9%         |
+| **Final Exam**            | 1 Final Exam                           | 12%        |
+| **Homeworks**              | Exploring HCI Principles                | 3%         |
+|                           | Event-Driven Framework/GUI Simulation (HTML/JS Programming) | 15%        |
+| **Project Milestones**    | User Research                          | 12%        |
+|                           | Interaction Modeling                   | 12%        |
+|                           | Interface Design (Adobe XD/Figma)      | 15%        |
+|                           | Implementation (included AI Components)| 18%        |
+| **Evaluation**            | Final Evaluation of the Project        | 4%         |
