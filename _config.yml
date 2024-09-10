@@ -1,7 +1,7 @@
 # Site settings
 title: COSE432
-tagline: COSE432
-description: 2024 HCI course website for undergraduates at Korea University
+tagline: 2024 Human-Computer Interaction
+description: DXPLab @ Korea University
 author: Dr. Gerard Jounghyun Kim
 baseurl: ''
 url: 'https://ku-dxplab.github.io'
