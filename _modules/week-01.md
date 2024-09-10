@@ -1,23 +1,12 @@
 ---
-title: Introduction to Java
+title: Introduction
+type: lecture
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Sep 2
+: [Introduce to HCI](#)
+  : [pdf](../assets/lectures/introduce-to-hci.pdf), [video(What is HCI?)](https://bit.ly/3zoRWDA)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
-
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Sep 4
+: 
+  : 
