@@ -1,23 +1,38 @@
 ---
-title: Basic Data Structures
+title: Guidelines, Principles, Theories
+type: lecture
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Sep 9
+: [HCI Basic Principles / Guidelines](#)
+  : [pdf](../assets/lectures/hci-principles.pdf)
+  
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Sep 11
+: 
+  : 
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+Sep 16
+: **Section**{: .label .label-purple }[Chuseok Holiday](#)
+  : [Sources (Update Soon)](#)
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+Sep 18
+: **Section**{: .label .label-purple }[Chuseok Holiday](#)
+  : [Sources (Update Soon)](#)
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Sep 23
+: [Introduction to GOMS Method](#)
+  : [pdf](../assets/lectures/goms.pdf)
+
+Sep 25
+: [Decision Trees](#)
+  : [pdf](../assets/lectures/decision-trees.pdf)
+: **HW 1 due**{: .label .label-red }
+
+Sep 30
+: [AI and UX](#)
+  : [pdf](../assets/lectures/ai-and-ux.pdf)
+
+Oct 2
+: []()
+  : []()
