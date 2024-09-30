@@ -21,20 +21,37 @@ description: >-
 {% endif %}
 
 ## Homeworks
-### HW1: Exploring HCI Principles **Due Sep 25 11:59**{: .label .label-red }
+### HW1: Exploring HCI Principles 
+**Homeworks**{: .label .label-yellow } **Due Sep 25 11:59**{: .label .label-green }
+
 {% assign assignment = site.assignments | where: 'task', 'hw1' %}
 {% if assignment != 0 %}
  {{ assignment }}
 {% endif %}
 
-### HW2: Event-Driven Framework/GUI Simulation 
+### HW2: User Research / Contextual Inquiry **Due Oct 20 11:59**{: .label .label-red }
+**Project Milestones**{: .label .label-yellow } **Due Oct 20 11:59**{: .label .label-red }
+
+This assignment is the first milestone of your `🤖AI assisted Interactive Ticketing`
+project.
+
+{% assign assignment = site.assignments | where: 'task', 'hw2' %}
+{% if assignment != 0 %}
+ {{ assignment }}
+{% endif %}
+
+### HW3: Detecting and Mitigating AI Bias  
+**Homeworks**{: .label .label-yellow } **Due Oct 27 11:59**{: .label .label-red }
+
 Coming Soon 🤮
+
 
 ## Project
 **🤖AI assisted Interactive Ticketing**
 
-### M1: User Research
-Coming Soon 🤮
+### M1: User Research / Contextual Inquiry
+Check for [Homework 2](#hw2-user-research--contextual-inquiry-due-oct-20-1159).
+
 
 ### M2: Interaction Modeling
 Coming Soon 🤮
