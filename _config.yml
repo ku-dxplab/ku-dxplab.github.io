@@ -61,9 +61,9 @@ defaults:
       subpath: '/assets/'
   - scope:
       path: ''
-      type: assignments
+      type: assignments-test
     values:
-      layout: assignment-test
+      layout: assignment
       subpath: '/assets/'
 
 
