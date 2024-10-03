@@ -5,7 +5,7 @@ task: hw2
 file: assignments/hw2.pdf
 ---
 
-### Submission to KULMS 
+### 📑 Submission to KULMS 
 * A **zip** file with your name and ID : **`HW2-JohnSmith-2020345678.zip`**
 
 Your submission should be structured as follows: 
