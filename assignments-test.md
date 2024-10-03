@@ -49,8 +49,13 @@ project.
  {{ assignment }}
 {% endif %}
 
-## Project
-**🤖AI assisted Interactive Ticketing**
+## Project: 🤖AI assisted Interactive Ticketing
+
+{% assign info = site.assignments | where: 'type', 'milestones-info' %}
+{% if info != 0 %}
+ {{ info }}
+{% endif %}
+
 
 ### M1: User Research / Contextual Inquiry
 Check for [Homework 2](#hw2-user-research--contextual-inquiry-due-oct-20-1159).
