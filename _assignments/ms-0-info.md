@@ -5,16 +5,9 @@ type: milestones-info
 
 You'll DESIGN, BUILD, and TEST your own human-computer interaction system for `🤖AI assisted Interactive Ticketing`.
 
-This is a { `team-based` OR `individual` }, half-semester-long design project where you'll create your own original human-computer interaction system. | You'll work { `in teams of n people` OR `independently` }, applying the concepts you've learned throughout the course. Below is the timeline and grading breakdown for each milestone.
+You'll work { `in teams of n people` OR `independently` }, applying the concepts you've learned throughout the course. Below is the timeline and grading breakdown for each milestone.
 
-| Milestones |  | Weights |
-| --- | --- | --- |
-| M1 | User Research | 12% |
-| M2 | Interaction Modeling | 12% |
-| M3 | Interface Design | 15% |
-| M4 | Implementation | 18% |
-| M5 | Evaluation | 4% |
-| Total |  | 61% → ?? |
+{ timeline / grading table }
 
 ### **Does my project idea qualify?**
 
@@ -50,4 +43,4 @@ Designing for both **user inputs (or circumstances)** and **AI outputs** is esse
  : We'll create an assignment in KLUMS for each assignment.
 
 **Late Policy**
-: You'll lose **10%** for each late day. Submissions will be accepted until **three days after the deadline**. After then you'll get **0** on that assignment.
+: You'll lose **n%** for each late day. Submissions will be accepted until **three days after the deadline**. After then you'll get **0** on that assignment.
