@@ -59,6 +59,13 @@ defaults:
     values:
       layout: assignment
       subpath: '/assets/'
+  - scope:
+      path: ''
+      type: assignments
+    values:
+      layout: assignment-test
+      subpath: '/assets/'
+
 
 compress_html:
   clippings: all

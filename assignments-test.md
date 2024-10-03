@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Assignments
+title: Assignments-Test
+nav_exclude: true
 description: >-
-    Course Assignments.
+    Course Assignments Test page (hidden).
 ---
 
 # Assignments
@@ -40,11 +41,13 @@ project.
  {{ assignment }}
 {% endif %}
 
-### HW3: Detecting and Mitigating AI Bias  
+### HW3: Detecting and Mitigating AI Bias **Due Oct 27 11:59**{: .label .label-red }
 **Homeworks**{: .label .label-yellow }
 
-Coming Soon 🤮
-
+{% assign assignment = site.assignments | where: 'task', 'hw3' %}
+{% if assignment != 0 %}
+ {{ assignment }}
+{% endif %}
 
 ## Project
 **🤖AI assisted Interactive Ticketing**
