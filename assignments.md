@@ -40,10 +40,13 @@ project.
  {{ assignment }}
 {% endif %}
 
-### HW3: Detecting and Mitigating AI Bias  
+### HW3: Detecting and Mitigating AI Bias **Due Nov 3 11:59**{: .label .label-red }
 **Homeworks**{: .label .label-yellow }
 
-Coming Soon 🤮
+{% assign assignment = site.assignments | where: 'task', 'hw3' %}
+{% if assignment != 0 %}
+ {{ assignment }}
+{% endif %}
 
 
 ## Project
