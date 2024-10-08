@@ -24,6 +24,8 @@ Designing effective user interfaces requires a deep understanding of how humans 
 
 * **Due Oct 20, PM 11:59**{: .label .label-red }**[HW2: User Research / Contextual Inquiry](/assignments/#homeworks)**
 
+* **Due Nov 3, PM 11:59**{: .label .label-red }**[HW3: Detecting and Mitigating AI Bias](/assignments/#homeworks)**
+
 
 ### Description
 {: .no_toc .text-delta }
