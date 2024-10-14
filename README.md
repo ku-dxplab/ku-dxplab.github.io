@@ -24,17 +24,13 @@ Designing effective user interfaces requires a deep understanding of how humans 
 
 * **Due Oct 20, PM 11:59**{: .label .label-red }**[HW2: User Research / Contextual Inquiry](/assignments/#homeworks)**
 
-* **Due Nov 3, PM 11:59**{: .label .label-red }**[HW3: Detecting and Mitigating AI Bias](/assignments/#homeworks)**
+* **Due Nov 10, PM 11:59**{: .label .label-red }**[HW3: Basic HTML/JavaScript Practice](/assignments/#homeworks)**
 
 
 ### Description
 {: .no_toc .text-delta }
 * Homeworks: **[Homeworks List](/assignments/#homeworks)**
 * Projects: **[Project Milestones](/assignments/#project)**
-
-
-## Attendances
-All attendance must be completed through **[KULMS](https://kulms.korea.ac.kr/ultra/courses/_417634_1/cl/outline)**. Up to 3 absences allowed; more than 3 results in up to 5% deduction from total score.
 
 
 ## Discussions and Communication
