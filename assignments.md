@@ -38,7 +38,7 @@ description: >-
 {% endif %}
 
 ### HW3: Basic HTML/JavaScript Practice **Due Nov 10 11:59**{: .label .label-red }
-**Project Milestones**{: .label .label-yellow }
+**Homeworks**{: .label .label-yellow } **Project Milestones**{: .label .label-yellow }
 
 {% assign assignment = site.assignments | where: 'task', 'hw3' %}
 {% if assignment != 0 %}
