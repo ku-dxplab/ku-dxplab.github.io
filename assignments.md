@@ -29,8 +29,8 @@ description: >-
  {{ assignment }}
 {% endif %}
 
-### HW2: User Research / Contextual Inquiry **Due Oct 20 11:59**{: .label .label-red }
-**Project Milestones**{: .label .label-yellow }
+### HW2: User Research / Contextual Inquiry
+**Project Milestones**{: .label .label-yellow }  **Due Oct 20 11:59**{: .label .label-green }
 
 {% assign assignment = site.assignments | where: 'task', 'hw2' %}
 {% if assignment != 0 %}
@@ -45,10 +45,20 @@ description: >-
  {{ assignment }}
 {% endif %}
 
-### HW4: Detecting and Mitigating AI Bias 
+
+### HW4: Detailed Design / Wire-framing **Due Nov 13 11:59**{: .label .label-red }
 **Homeworks**{: .label .label-yellow }
 
 {% assign assignment = site.assignments | where: 'task', 'hw4' %}
+{% if assignment != 0 %}
+ {{ assignment }}
+{% endif %}
+
+## Practice (Optional)
+### Detecting and Mitigating AI Bias 
+**Practice**{: .label .label-blue }
+
+{% assign assignment = site.assignments | where: 'task', 'optional' %}
 {% if assignment != 0 %}
  {{ assignment }}
 {% endif %}
@@ -64,12 +74,11 @@ description: >-
 
 
 ### M1: User Research / Contextual Inquiry
-Check for [Homework 2](#hw2-user-research--contextual-inquiry-due-oct-20-1159).
+Check for [Homework 2](#hw2-user-research--contextual-inquiry).
 
 
 ### M2: Interaction Modeling / Interface Design
-Coming Soon 🤮
-
+Check for [Homework 4](#hw4-detailed-design--wire-framing-due-nov-13-1159)
 
 ### M3: Implementation
 Coming Soon 🤮
