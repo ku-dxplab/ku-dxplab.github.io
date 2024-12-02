@@ -22,9 +22,9 @@ Designing effective user interfaces requires a deep understanding of how humans 
 ### Current Assignments
 {: .no_toc .text-delta }
 
-* **Due Nov 10, PM 11:59**{: .label .label-red }**[HW3: Basic HTML/JavaScript Practice](/assignments/#homeworks)**
+* **Due Dec 20, PM 11:59**{: .label .label-red }**[HW5: Implementation and Evaluation](/assignments/#homeworks)**
 
-* **Due Nov 13, PM 11:59**{: .label .label-red }**[HW4: Detailed Design / Wire-framing](/assignments/#homeworks)**
+* **Due Dec 20, PM 11:59**{: .label .label-blue }**[(Optional)HW6: Detecting and Mitigating AI Bias](/assignments/#homeworks)**
 
 
 ### Description

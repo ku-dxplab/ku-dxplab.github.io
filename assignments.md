@@ -37,8 +37,8 @@ description: >-
  {{ assignment }}
 {% endif %}
 
-### HW3: Basic HTML/JavaScript Practice **Due Nov 10 11:59**{: .label .label-red }
-**Homeworks**{: .label .label-yellow } **Project Milestones**{: .label .label-yellow }
+### HW3: Basic HTML/JavaScript Practice
+**Homeworks**{: .label .label-yellow } **Project Milestones**{: .label .label-yellow } **Due Nov 20 11:59**{: .label .label-green }
 
 {% assign assignment = site.assignments | where: 'task', 'hw3' %}
 {% if assignment != 0 %}
@@ -46,10 +46,18 @@ description: >-
 {% endif %}
 
 
-### HW4: Detailed Design / Wire-framing **Due Nov 13 11:59**{: .label .label-red }
-**Homeworks**{: .label .label-yellow }
+### HW4: Detailed Design / Wire-framing
+**Project Milestones**{: .label .label-yellow } **Due Nov 13 11:59**{: .label .label-green }
 
 {% assign assignment = site.assignments | where: 'task', 'hw4' %}
+{% if assignment != 0 %}
+ {{ assignment }}
+{% endif %}
+
+### HW5: Implementation and Evaluation **Due Dec 20 11:59**{: .label .label-red }
+**Project Milestones**{: .label .label-yellow }
+
+{% assign assignment = site.assignments | where: 'task', 'hw5' %}
 {% if assignment != 0 %}
  {{ assignment }}
 {% endif %}
@@ -72,17 +80,11 @@ description: >-
  {{ info }}
 {% endif %} -->
 
-
 ### M1: User Research / Contextual Inquiry
 Check for [Homework 2](#hw2-user-research--contextual-inquiry).
-
 
 ### M2: Interaction Modeling / Interface Design
 Check for [Homework 4](#hw4-detailed-design--wire-framing-due-nov-13-1159)
 
-### M3: Implementation
-Coming Soon 🤮
-
-
-### M4: Evaluation
-Coming Soon 🤮
+### M3: Implementation / Evaluation
+Check for [Homework 5](#hw5-implementation-and-evaluation-due-dec-20-1159)
