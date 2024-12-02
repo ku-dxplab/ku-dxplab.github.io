@@ -13,26 +13,17 @@ Sep 11
   : 
 
 Sep 16
-: **Section**{: .label .label-purple }[Chuseok Holiday](#)
-  : [Sources (Update Soon)](#)
+: **Chuseok Holiday**{: .label .label-purple }[GOMS](#)
+  : [pdf](../assets/lectures/goms.pdf), [Video Lecture](https://tinyurl.com/y32txubb)
 
 Sep 18
-: **Section**{: .label .label-purple }[Chuseok Holiday](#)
-  : [Sources (Update Soon)](#)
+: **Chuseok Holiday**{: .label .label-purple }[Decision Tree](#)
+  : [pdf](../assets/lectures/decision-trees.pdf), [Video Lecture](https://tinyurl.com/3j74bp7p)
 
 Sep 23
-: [Introduction to GOMS Method](#)
-  : [pdf](../assets/lectures/goms.pdf)
+: 
+  : 
 
 Sep 25
-: [Decision Trees](#)
-  : [pdf](../assets/lectures/decision-trees.pdf)
 : **HW 1 due**{: .label .label-red }
-
-Sep 30
-: [AI and UX](#)
-  : [pdf](../assets/lectures/ai-and-ux.pdf)
-
-Oct 2
-: []()
-  : []()
+  : 

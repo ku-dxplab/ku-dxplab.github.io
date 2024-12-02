@@ -40,14 +40,26 @@ For discussions or questions, please use KULMS Discussions. Alternatively, conta
 
 ## Grading
 
-| **Category**              | **Item**                                | **Weight** |
-|---------------------------|-----------------------------------------|------------|
-| **Quizzes**               | 3 Monthly Quizzes                      | 9%         |
-| **Final Exam**            | 1 Final Exam                           | 12%        |
-| **Homeworks**              | Exploring HCI Principles                | 3%         |
-|                           | Event-Driven Framework/GUI Simulation (HTML/JS Programming) | 15%        |
-| **Project Milestones**    | User Research                          | 12%        |
-|                           | Interaction Modeling                   | 12%        |
-|                           | Interface Design (Adobe XD/Figma)      | 15%        |
-|                           | Implementation (included AI Components)| 18%        |
-| **Evaluation**            | Final Evaluation of the Project        | 4%         |
+| **Category**   | **Item**         | **Weight** |
+|----------------|------------------|------------|
+| **Quizzes**    | Q1              | 3%         |
+|                | Q2              | 3%         |
+|                | Q3              | 5%         |
+| **Final Exam** | 1 Final Exam     | 18%        |
+| **Homeworks**  | HW 1 (UX Essay) | 3%         |
+|                | HW 2 (User Research) | 12%   |
+|                | HW 3 (HTML/JS Exercise) | 15% |
+|                | HW 4 (Detailed Design) | 15% |
+|                | HW 5 (Implementation) | 18% |
+|                | HW 5 (Evaluation)     | 8%  |
+| **Totals**     |                       | 100% |
+| **Extras**     | Pop Quizzes/Attendance | 1%  |
+|                | AI Component in HW 5  | 5% (bonus) |
+|                | HW 6 (Optional)       | 1% (bonus) |
+
+- Scores for HW 2 letter grades (HW 2 is 12%):
+    - A: 12 pts
+    - A-: 10 pts
+    - B+: 8 pts
+    - B: 6 pts
+
